@@ -1,4 +1,4 @@
-<div align="left">
+
 # Install Oracle JDK on Linux  
 
 Login as root  
@@ -15,4 +15,4 @@ yum install jdk-19.0.2_linux-x64_bin.rpm
 export JAVA_HOME=/usr/lib/jvm/jdk-19-oracle-x64  
 export PATH=$PATH:$JAVA_HOME/bin  
 
-</div>
+
