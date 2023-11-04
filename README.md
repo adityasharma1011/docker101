@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 # Install Oracle JDK on Linux  
 
 Login as root  
