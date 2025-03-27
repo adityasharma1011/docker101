@@ -1,0 +1,7 @@
+# Install maven on Linux
+
+Login as root
+$ yum install maven -y 
+
+Verify 
+$ mvn -version 
